@@ -1,0 +1,15 @@
+E:\ProjetosC#\balta\mod1\StopWatch\bin\Debug\net7.0\StopWatch.exe
+E:\ProjetosC#\balta\mod1\StopWatch\bin\Debug\net7.0\StopWatch.deps.json
+E:\ProjetosC#\balta\mod1\StopWatch\bin\Debug\net7.0\StopWatch.runtimeconfig.json
+E:\ProjetosC#\balta\mod1\StopWatch\bin\Debug\net7.0\StopWatch.dll
+E:\ProjetosC#\balta\mod1\StopWatch\bin\Debug\net7.0\StopWatch.pdb
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.csproj.AssemblyReference.cache
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfoInputs.cache
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfo.cs
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.csproj.CoreCompileInputs.cache
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.dll
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\refint\StopWatch.dll
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.pdb
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\StopWatch.genruntimeconfig.cache
+E:\ProjetosC#\balta\mod1\StopWatch\obj\Debug\net7.0\ref\StopWatch.dll
